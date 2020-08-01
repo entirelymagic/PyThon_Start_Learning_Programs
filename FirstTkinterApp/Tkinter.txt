@@ -1,0 +1,7 @@
+.pack :
+     expand=True = take as much room as they can
+     fill='both
+
+frames to get the layouts we whant.
+
+notebook.pack(fill='both', expand=True)
